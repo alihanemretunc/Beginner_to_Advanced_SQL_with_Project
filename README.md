@@ -14,3 +14,5 @@ Data cleaning and exploratory data analysis projects have comments to explain wh
 Overall this was a really good experience. 
 
 After this, I switched to data analyst roadmap on [Analyst Builder](https://www.analystbuilder.com/) 
+
+![layoffs](https://github.com/user-attachments/assets/2bde63f3-453c-4900-9eb3-a2c3391f44e2)
